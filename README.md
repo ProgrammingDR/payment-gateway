@@ -1,4 +1,4 @@
- #payment-gateway
+#payment-gateway
  
  https://programmingdr.github.io/payment-gateway/
  
